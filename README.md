@@ -17,3 +17,5 @@
    4. paradigm Ctf
 
 7. Smart Contract Auditing ( Cyfrin updraft )
+
+8. start hunting in immunefi
