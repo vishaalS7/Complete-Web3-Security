@@ -1,6 +1,6 @@
 # Complete-Web3-Security
 
-1. Mastering Ethereum ( book ) -- Chapter 1,2,3,4,5,6,13,14
+1. Mastering Ethereum ( book ) -- Chapter 1,2,3,4,5,6,13,14 completed - chapters 1 
 
 2. Crypto Zombies
 
